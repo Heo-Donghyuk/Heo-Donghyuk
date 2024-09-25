@@ -24,13 +24,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
 ## 🎓 Education
-- 브니엘고등학교 2016.03 ~ 2019.02.
-- 부산대학교 동물생명자원과학과 (주전공) 2019.03. ~ 현재
 - 부산대학교 전기컴퓨터공학부 정보컴퓨터공학전공 (복수전공) 2020.09. ~ 현재
+- 부산대학교 동물생명자원과학과 (주전공) 2019.03. ~ 현재
+- 브니엘고등학교 2016.03 ~ 2019.02.
 
 ## ⚡ Activity
-- [카카오테크캠퍼스](https://www.kakaotechcampus.com/) 1기 프론트엔드 트랙 2023.04. ~ 2023.11.
 - [SW 마에스트로](https://www.swmaestro.org/) 15기 2024.04. ~ 현재
+- [카카오테크캠퍼스](https://www.kakaotechcampus.com/) 1기 프론트엔드 트랙 2023.04. ~ 2023.11.
 
 ## 🏆 Awards
 - 카카오 테크 캠퍼스 1기 신규 서비스 개발 프로젝트 - **🏆대상**(2023.11.17.)
