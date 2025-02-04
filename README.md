@@ -29,11 +29,12 @@
 - 브니엘고등학교 2016.03 ~ 2019.02.
 
 ## ⚡ Activity
-- [SW 마에스트로](https://www.swmaestro.org/) 15기 2024.04. ~ 현재
-- [카카오테크캠퍼스](https://www.kakaotechcampus.com/) 1기 프론트엔드 트랙 2023.04. ~ 2023.11.
+- [SW 마에스트로](https://www.swmaestro.org/) 15기 수료 2024.04. ~ 2024.12.
+- [카카오테크캠퍼스](https://www.kakaotechcampus.com/) 1기 프론트엔드 트랙 수료 2023.04. ~ 2023.11.
 
 ## 🏆 Awards
 - 카카오 테크 캠퍼스 1기 신규 서비스 개발 프로젝트 - **🏆대상**(2023.11.17.)
 
 ## 💻 Project
+- [뉴젯 - 뉴스레터 기록 및 관리 서비스](https://app.newzet.me/)
 - [번개 볼링 - 번개 지향 볼링 모집 커뮤니티 (2023.09. ~ 2023. 11.)](https://github.com/Step3-kakao-tech-campus/Team3_FE)
