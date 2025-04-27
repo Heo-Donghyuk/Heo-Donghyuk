@@ -1,6 +1,8 @@
 ## 👋🏻 허동혁 (Heo-Donghyuk)
 안녕하세요 허동혁입니다.
 
+[![Views](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FHeo-Donghyuk?color=blue&label=Views)](https://myhits.vercel.app)
+
 ## 🤝🏻 Contact
 📮 Email : missko30@pusan.ac.kr
 
